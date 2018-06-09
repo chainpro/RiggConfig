@@ -2,7 +2,8 @@ maxgputemp 75
 stratumproxy miner
 poolemail perpern@gmail.com
 # Monero
-globalminer sgminer-gm-xmr 
+globalminer sgminer-gm-xmr
+# Flags for claymore if you want
 claymore-xmr=flags -pow7 1
 proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
 proxypool1 xmr-eu1.nanopool.org:14444
