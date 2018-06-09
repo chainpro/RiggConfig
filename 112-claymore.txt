@@ -1,3 +1,4 @@
+# 112 claymore
 poolemail perpern@gmail.com 
 #globalname disabled
 maxgputemp 69
