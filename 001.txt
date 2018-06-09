@@ -1,0 +1,10 @@
+maxgputemp 75
+stratumproxy miner
+poolemail perpern@gmail.com
+# Monero
+globalminer sgminer-gm-xmr 
+claymore-xmr=flags -pow7 1
+proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
+proxypool1 xmr-eu1.nanopool.org:14444
+proxypool2 xmr-eu2.nanopool.org:14444
+globalfan 70
