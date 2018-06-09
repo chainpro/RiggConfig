@@ -4,7 +4,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 
 poolemail perpern@gmail.com 
 maxgputemp 69
-#globalcore 1110
+globalcore 1210
 globalmem 1750
 globalfan 65
 #stratumproxy enabled
