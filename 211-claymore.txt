@@ -5,7 +5,7 @@ poolemail perpern@gmail.com
 maxgputemp 69
 globalcore 1110
 globalmem 2020
-globalfan 71
+globalfan 65
 #stratumproxy enabled
 
 # Monero
