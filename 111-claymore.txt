@@ -1,4 +1,4 @@
-#111 claymore
+# 111 claymore - 8 GPUS
 stratumproxy miner
 
 poolemail perpern@gmail.com 
