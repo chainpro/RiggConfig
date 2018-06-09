@@ -11,8 +11,7 @@ globalfan 71
 # Monero
 #globalminer sgminer-gm-xmr 
 #claymore-xmr=flags -pow7 1
-#proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGF
-ocet7knn6CciW9XsPzMkdB5CMSTq
+#proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
 #proxypool1 xmr-eu1.nanopool.org:14444
 
 # Ethereum
