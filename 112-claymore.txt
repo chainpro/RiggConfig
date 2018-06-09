@@ -1,0 +1,33 @@
+poolemail perpern@gmail.com 
+#globalname disabled
+maxgputemp 69
+globalcore 1120
+globalfan 75
+stratumproxy miner
+
+# Monero
+#globalminer sgminer-gm-xmr 
+#claymore-xmr=flags -pow7 1
+#proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
+#proxypool1 xmr-eu1.nanopool.org:14444
+
+# x16r rvn
+#globalminer sgminer-gm
+#proxywallet RFZh7QzGsRy8jr9Gif9Nbz1x751Z45p1Vy
+#proxypool1 hash4.life:3636
+#proxypool2 hash4.life:3636
+#poolpass1 c=RVN
+#poolpass2 c=RVN
+
+# Ethereum
+globalminer claymore 
+proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
+proxypool1 eth-eu1.nanopool.org:9999
+proxypool2 eth-eu2.nanopool.org:9999
+
+safevolt disabled
+#cor 6552a9 1110 1110 1110 1110 1110 1110 1110
+mem 6552a9 2070 2070 2070 2070 2090 2070 2060
+#fan 6552a9 90 90 90 90 90 90 90
+vlt 6552a9 870 870 870 870 870 870 870
+vddci 6552a9 850 850 850 850 850 850 850
