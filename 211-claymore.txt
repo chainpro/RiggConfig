@@ -3,8 +3,8 @@ stratumproxy miner
 # flags --cl-global-work 8192 --farm-recheck 200
 poolemail perpern@gmail.com 
 maxgputemp 69
-globalcore 1210
-globalmem 1750
+globalcore 1120
+globalmem 2020
 globalfan 65
 # stratumproxy enabled
 # Monero
