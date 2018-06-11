@@ -7,4 +7,4 @@ ccminer=flags -a monero
 proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
 proxypool1 xmr-eu1.nanopool.org:14444
 proxypool2 xmr-eu2.nanopool.org:14444
-globalfan 70
+globalfan 50
