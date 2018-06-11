@@ -1,3 +1,3 @@
 # RiggConfig
 
-What chainpro needs to mine on their rigs
+What chainpro needs to mine on its rigs
