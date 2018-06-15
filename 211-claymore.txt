@@ -5,7 +5,9 @@ poolemail perpern@gmail.com
 maxgputemp 69
 globalcore 1120
 globalmem 2040
-globalfan 50
+globalfan 59
+globalpowertune 3
+globaldpm 3
 # stratumproxy enabled
 # Monero
 # globalminer claymore-xmr 
