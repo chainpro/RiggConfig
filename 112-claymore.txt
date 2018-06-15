@@ -5,6 +5,7 @@ maxgputemp 69
 globalcore 1120
 globalfan 59
 globalpowertune 3
+globaldpm 3
 stratumproxy miner
 
 # Monero
