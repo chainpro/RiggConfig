@@ -1,6 +1,5 @@
 # 211 claymore - 9 GPUS
 stratumproxy miner
-# flags --cl-global-work 8192 --farm-recheck 200
 poolemail perpern@gmail.com 
 maxgputemp 69
 globalcore 1120
