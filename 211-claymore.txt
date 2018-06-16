@@ -5,8 +5,8 @@ maxgputemp 69
 globalcore 1120
 globalmem 2020
 globalfan 59
-#globalpowertune 3
-#globaldpm 3
+globalpowertune 3
+globaldpm 3
 # stratumproxy enabled
 # Monero
 # globalminer claymore-xmr 
