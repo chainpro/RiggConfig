@@ -2,7 +2,7 @@
 poolemail perpern@gmail.com 
 #globalname disabled
 maxgputemp 69
-globalfan 59
+globalfan 63
 globalpowertune 3
 globaldpm 3
 stratumproxy miner
