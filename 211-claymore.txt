@@ -3,17 +3,11 @@ stratumproxy miner
 poolemail perpern@gmail.com 
 maxgputemp 69
 globalcore 1120
-globalmem 2050
+globalmem 2040
 globalfan 59
-globalpowertune 5
+#globalpowertune 5
 globaldpm 5
 # stratumproxy enabled
-# Monero
-# globalminer claymore-xmr 
-# claymore-xmr=flags -pow7 1
-# proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
-# proxypool1 xmr-eu1.nanopool.org:14444
-# Ethereum
 globalminer claymore 
 proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
 proxypool1 eth-eu1.nanopool.org:9999
@@ -22,5 +16,6 @@ safevolt disabled
 # cor b79213 1120 1120 1120 1120 1120 1120 1120
 # mem b79213 2050 2050 2050 2130 2050 2050 2050
 # fan b79213 90 90 90 90 90 90 90
-vlt b79213 870 870 870 870 870 870 870 870 870
+#vlt b79213 870 870 870 870 870 870 870 870 870
 #vddci b79213 870 870 870 870 870 870 870 870 870
+reb b79213 1
