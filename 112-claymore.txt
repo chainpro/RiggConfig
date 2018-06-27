@@ -24,7 +24,7 @@ stratumproxy miner
 #poolpass2 c=RVN
 
 # Ethereum
-globalcore 1135
+globalcore 1120
 globalminer claymore 
 proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
 proxypool1 eth-eu1.nanopool.org:9999
