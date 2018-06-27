@@ -25,6 +25,7 @@ stratumproxy miner
 
 # Ethereum
 globalcore 1120
+globalmem 2000
 globalminer claymore 
 proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
 proxypool1 eth-eu1.nanopool.org:9999
@@ -32,7 +33,7 @@ proxypool2 eth-eu2.nanopool.org:9999
 
 safevolt disabled
 #cor 6552a9 1110 1110 1110 1110 1110 1110 1110
-mem 6552a9 2080 2080 2080 2080 2080 2080 2060
+#mem 6552a9 2080 2080 2080 2080 2080 2080 2060
 #fan 6552a9 90 90 90 90 90 90 90
 vlt 6552a9 870 870 870 870 870 870 870
 vddci 6552a9 870 870 870 870 870 870 870
