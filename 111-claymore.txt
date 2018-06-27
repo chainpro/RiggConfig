@@ -11,16 +11,16 @@ globaldpm 3
 #stratumproxy enabled
 
 # Monero
-#globalminer sgminer-gm-xmr 
-#claymore-xmr=flags -pow7 1
-#proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
-#proxypool1 xmr-eu1.nanopool.org:14444
+globalminer sgminer-gm-xmr 
+claymore-xmr=flags -pow7 1
+proxywallet 46NopC8KBCUJxED41LVWdSNwZNH75VyLDR9X5tkXqvtBHrXzHM5KoAhLU5AkrG8aTGFocet7knn6CciW9XsPzMkdB5CMSTq
+proxypool1 xmr-eu1.nanopool.org:14444
 
 # Ethereum
-globalminer claymore 
-proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
-proxypool1 eth-eu1.nanopool.org:9999
-proxypool2 eth-eu2.nanopool.org:9999
+#globalminer claymore 
+#proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
+#proxypool1 eth-eu1.nanopool.org:9999
+#proxypool2 eth-eu2.nanopool.org:9999
 
 safevolt disabled
 #cor 660577 1120 1120 1120 1120 1120 1120 1120 1120
