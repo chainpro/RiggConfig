@@ -4,10 +4,10 @@ stratumproxy miner
 poolemail perpern@gmail.com 
 maxgputemp 69
 globalcore 1120
-globalmem 2020
+#globalmem 2020
 globalfan 59
-#globalpowertune 3
-#globaldpm 3
+globalpowertune 3
+globaldpm 3
 #stratumproxy enabled
 
 # Monero
@@ -24,7 +24,7 @@ proxypool2 eth-eu2.nanopool.org:9999
 
 safevolt disabled
 #cor 660577 1120 1120 1120 1120 1120 1120 1120 1120
-#mem 660577 2020 2020 2060 2130 2060 2060 2060 2060
+mem 660577 2060 2060 2060 2130 2060 2060 2060 2060
 #fan 660577 90 90 90 90 90 90 90 90
 vlt 660577 870 870 870 870 870 870 870
-#vddci 660577 850 850 850 850 850 850 850
+vddci 660577 850 850 850 850 850 850 850
