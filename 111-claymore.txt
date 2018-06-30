@@ -2,10 +2,10 @@
 stratumproxy miner
 
 poolemail perpern@gmail.com 
-maxgputemp 69
+maxgputemp 74
 globalcore 1120
 #globalmem 2020
-globalfan 59
+globalfan 75
 globalpowertune 3
 globaldpm 3
 #stratumproxy enabled
