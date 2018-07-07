@@ -2,11 +2,11 @@
 stratumproxy miner
 poolemail perpern@gmail.com 
 maxgputemp 69
-globalcore 1180
+globalcore 1120
 globalmem 2000
 globalfan 59
-#globalpowertune 5
-globaldpm 4
+globalpowertune 3
+globaldpm 3
 # stratumproxy enabled
 globalminer claymore 
 proxywallet 0x2ac8dcea0ae511460f47a17d996deff6cbe3ce66
@@ -16,6 +16,5 @@ safevolt disabled
 # cor b79213 1120 1120 1120 1120 1120 1120 1120
 mem b79213 2060 2070 2020 2060 2070 2060 2070 2070
 # fan b79213 60 60 60 60 60 60 60 60
-vlt b79213 870 870 870 870 870 870 870 870
+#vlt b79213 870 870 870 870 870 870 870 870
 #vddci b79213 870 870 870 870 870 870 870 870 870
-reb b79213 3
